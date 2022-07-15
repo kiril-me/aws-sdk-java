@@ -56,7 +56,7 @@
         <artifactId>aws-java-sdk-s3</artifactId>
         <groupId>com.amazonaws</groupId>
         <optional>false</optional>
-        <version>1.11.32-SNAPSHOT</version>
+        <version>1.12.261</version>
     </dependency>
     <dependency>
         <artifactId>aws-java-sdk-importexport</artifactId>
